@@ -1,3 +1,5 @@
+https://leetcode.com/problems/flip-equivalent-binary-trees/
+
 Takning example root1 = [1,2,3,4,5,6,null,null,null,7,8] and root2 = [1,3,2,null,6,4,5,null,null,null,null,8,7]
 We can make a few observations:
 - If at any point both root are nil, we can return True since nil trees are equiv.

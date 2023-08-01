@@ -1,3 +1,5 @@
+https://leetcode.com/problems/trim-a-binary-search-tree/
+
 Assuming bst [1,2,3,4,5,6,7], and range(3,5), we can observe the following:
 - at 4 (root of bst), val is between low and high, therefore root will be in final bst and may have left and right.
 - at 2 (left of 4), it is < low. There is no way anything left of 2 will be in final tree, so we can discard 2.left.
